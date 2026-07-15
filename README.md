@@ -1,11 +1,12 @@
 # EIS Fitting
 
-> **Recommended environment**: this workflow is recommended for a Linux-like environment. On Windows, using WSL is advised to avoid path, dependency, and terminal-behaviour issues.
-> **NB**: this repository only contains the documentation of the project for now, the rest of the code will be made public after the first publication.
+> **Recommended environment**: this workflow is recommended for a Linux-like environment. On Windows, using WSL is advised to avoid path, dependency, and terminal-behaviour issues
 
 Object-oriented Python workflow for preprocessing, fitting, analysing, and plotting electrochemical impedance spectroscopy (EIS) data from conductive hydrogel experiments.
 
 The project was developed for automated fitting of conductive hydrogel impedance spectra but could be used with other materials given the appropriate equivalent circuits. It currently supports raw data preprocessing, optional automatic outlier removal, Lin-KK validation, equivalent-circuit fitting, fitted-parameter extraction, fitted-parameter error filtering, derived conductivity calculations, and generation of Bode, Nyquist, residual, and parameter-summary plots.
+
+> **NB**: this repository only contains the documentation of the project for now, the rest of the code will be made public after the first publication.
 
 ---
 
