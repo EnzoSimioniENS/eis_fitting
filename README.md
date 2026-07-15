@@ -1,6 +1,7 @@
 # EIS Fitting
 
 > **Recommended environment**: this workflow is recommended for a Linux-like environment. On Windows, using WSL is advised to avoid path, dependency, and terminal-behaviour issues.
+> **NB**: this repository only contains the documentation of the project for now, the rest of the code will be made public after the first publication.
 
 Object-oriented Python workflow for preprocessing, fitting, analysing, and plotting electrochemical impedance spectroscopy (EIS) data from conductive hydrogel experiments.
 
